@@ -1,4 +1,4 @@
-##Second Part of the TODO list, adding fetch
+## Second Part of the TODO list, adding fetch
 
 This exercise is meant to be completed after the TODO list react application because the first part its the perfect boilerplate to start using API's.
 
